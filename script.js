@@ -39,10 +39,10 @@ function fabricarCarro() {
     }
 
     card.onmouseover = function() {
-        card.style.backgroundColor = "blue";
+        card.style.backgroundColor = "#0f172a";
     }
 
     card.onmouseout = function() {
-        card.style.backgroundColor = "red";
+        card.style.backgroundColor = "#1e293b";
     }
 }
